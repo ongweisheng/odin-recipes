@@ -10,3 +10,5 @@ Skills demonstrated are
 4. Show images
 5. Use unordered list
 6. Use ordered list
+
+Added basic CSS for "dark mode" subsequently as well.
